@@ -106,6 +106,7 @@
             this.Name = "frmOpcoesdejogar";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Jogo da Velha";
+            this.Load += new System.EventHandler(this.frmOpcoesdejogar_Load);
             this.MouseEnter += new System.EventHandler(this.frmOpcoesdejogar_MouseEnter);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);

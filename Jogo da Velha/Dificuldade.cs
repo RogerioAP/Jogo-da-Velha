@@ -25,7 +25,8 @@ namespace JogodaVelha
 
         private void btnMoleza_Click(object sender, EventArgs e)
         {
-            new Form2().ShowDialog();
+            MessageBox.Show("Não terminado ainda.........");
+            //new Form2().ShowDialog();
         }
 
         private void btnVoltar_Click(object sender, EventArgs e)
@@ -35,7 +36,7 @@ namespace JogodaVelha
 
         private void btnSeraquevoceganha_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Não terminado ainda.........");
         }
 
     }

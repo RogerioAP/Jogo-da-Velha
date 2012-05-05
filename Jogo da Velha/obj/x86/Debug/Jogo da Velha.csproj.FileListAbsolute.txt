@@ -99,3 +99,17 @@ J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResour
 J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
 J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1 (2).tlog
 J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rogerio\.ssh\Source\jogodavelha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+C:\Users\rogerio\.ssh\Source\jogodavelha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+C:\Users\rogerio\.ssh\Source\jogodavelha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+C:\Users\rogerio\.ssh\Source\jogodavelha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+C:\Users\rogerio\.ssh\Source\jogodavelha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rogerio\.ssh\Source\jogodavelha\Jogo da Velha\obj\x86\Debug\JogodaVelha.frmDificuldade.resources
+C:\Users\rogerio\.ssh\Source\jogodavelha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Form1.resources
+C:\Users\rogerio\.ssh\Source\jogodavelha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Form2.resources
+C:\Users\rogerio\.ssh\Source\jogodavelha\Jogo da Velha\obj\x86\Debug\JogodaVelha.frmOpcoesdejogar.resources
+C:\Users\rogerio\.ssh\Source\jogodavelha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Properties.Resources.resources
+C:\Users\rogerio\.ssh\Source\jogodavelha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1 (2).tlog
+C:\Users\rogerio\.ssh\Source\jogodavelha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rogerio\.ssh\Source\jogodavelha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1 (2).tlog
+C:\Users\rogerio\.ssh\Source\jogodavelha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog

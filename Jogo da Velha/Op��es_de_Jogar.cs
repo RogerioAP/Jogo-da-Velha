@@ -55,17 +55,23 @@ namespace JogodaVelha
             //{
             //    this.Opacity = Opacity - 0.1;
             //}
-            for (int y = 0; y <= 1000000; y++ )
+
+            /*for (int y = 0; y <= 1000000; y++ )
             {
                 Opacity += -0.00001;
-            }
+            }*/
         }
 
         private void frmOpcoesdejogar_MouseEnter(object sender, EventArgs e)
         {
-            timer1.Start();
+            /*timer1.Start();
             g++;
-            Refresh();
+            Refresh();*/
+        }
+
+        private void frmOpcoesdejogar_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
