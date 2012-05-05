@@ -1,0 +1,27 @@
+F:\Luciana\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+F:\Luciana\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Form1.resources
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Properties.Resources.resources
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+E:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+E:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+E:\Luciana\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+E:\Luciana\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+E:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Form1.resources
+E:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Properties.Resources.resources
+E:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+F:\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+F:\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+F:\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+F:\Jogo da Velha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Form1.resources
+F:\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Properties.Resources.resources
+F:\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog

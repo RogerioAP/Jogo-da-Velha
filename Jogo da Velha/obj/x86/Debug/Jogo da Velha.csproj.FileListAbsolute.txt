@@ -1,0 +1,101 @@
+F:\Luciana\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+F:\Luciana\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Form1.resources
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Properties.Resources.resources
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+E:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+E:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+E:\Luciana\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+E:\Luciana\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+E:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Form1.resources
+E:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Properties.Resources.resources
+E:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1 (2).tlog
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1 (2).tlog
+C:\Users\r\Documents\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+C:\Users\r\Documents\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+C:\Users\r\Documents\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+C:\Users\r\Documents\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+C:\Users\r\Documents\Jogo da Velha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\r\Documents\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Form1.resources
+C:\Users\r\Documents\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Properties.Resources.resources
+C:\Users\r\Documents\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1 (2).tlog
+C:\Users\r\Documents\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\r\Documents\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1 (2).tlog
+C:\Users\r\Documents\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\r\Documents\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.frmOpcoesdejogar.resources
+F:\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.frmOpcoesdejogar.resources
+F:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+F:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+F:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+F:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+F:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Form1.resources
+F:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.frmOpcoesdejogar.resources
+F:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Properties.Resources.resources
+F:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1 (2).tlog
+F:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1 (2).tlog
+F:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.frmDificuldade.resources
+I:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+I:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+I:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+I:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+I:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.frmDificuldade.resources
+I:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Form1.resources
+I:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.frmOpcoesdejogar.resources
+I:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Properties.Resources.resources
+I:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1 (2).tlog
+I:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1 (2).tlog
+I:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\r\Desktop\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+C:\Users\r\Desktop\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+C:\Users\r\Desktop\Rogério\Luciana\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+C:\Users\r\Desktop\Rogério\Luciana\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+C:\Users\r\Desktop\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\r\Desktop\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.frmDificuldade.resources
+C:\Users\r\Desktop\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Form1.resources
+C:\Users\r\Desktop\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.frmOpcoesdejogar.resources
+C:\Users\r\Desktop\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Properties.Resources.resources
+C:\Users\r\Desktop\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1 (2).tlog
+C:\Users\r\Desktop\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\r\Desktop\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1 (2).tlog
+C:\Users\r\Desktop\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Rogério\Luciana\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Form2.resources
+E:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+E:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+E:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+E:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+E:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.frmDificuldade.resources
+E:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Form1.resources
+E:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Form2.resources
+E:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.frmOpcoesdejogar.resources
+E:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Properties.Resources.resources
+E:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1 (2).tlog
+E:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1 (2).tlog
+E:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.exe
+J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\Jogo da Velha.pdb
+J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.frmDificuldade.resources
+J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Form1.resources
+J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Form2.resources
+J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.frmOpcoesdejogar.resources
+J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\JogodaVelha.Properties.Resources.resources
+J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1 (2).tlog
+J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1 (2).tlog
+J:\Rogério\JOGOS EM C#\Jogo da Velha\Jogo da Velha\obj\x86\Debug\GenerateResource.write.1.tlog
