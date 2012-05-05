@@ -1,1 +1,1 @@
-Simples jogo de velha feito em C# (c sharp)
+Simples Jogo da Velha feito em C# (c sharp)
