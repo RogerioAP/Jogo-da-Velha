@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-
+/*Rogério Almeida Pereira*/
 namespace JogodaVelha
 {
     public partial class frmDificuldade : Form
@@ -20,7 +20,7 @@ namespace JogodaVelha
 
         public void Fechar()
         {
-            this.Close();
+            this.Close();/*Rogério Almeida Pereira*/
         }
 
         private void btnMoleza_Click(object sender, EventArgs e)

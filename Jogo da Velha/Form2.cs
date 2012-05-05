@@ -20,7 +20,7 @@ namespace JogodaVelha
         }
         public int B1 = 0; //aqui é para que depois possa compara se o jogador já clicou em algum botão
         public int B2 = 0;
-        public int B3 = 0;
+        public int B3 = 0;/*Rogério Almeida Pereira*/
         public int B4 = 0;
         public int B5 = 0;
         public int B6 = 0;
@@ -80,7 +80,7 @@ namespace JogodaVelha
                 Random er = new Random();
                 numero = int.Parse(er.Next(1, 10).ToString()); // sendo que o 10 não é sorteado (Lembrando que o 1 também é sorteado)
                 if (numero == 1) { A++; if (A == 1) { teste = true; break; } }
-                if (numero == 2) { B++; if (B == 1) { teste = true; break; } }
+                if (numero == 2) { B++; if (B == 1) { teste = true; break; } }/*Rogério Almeida Pereira*/
                 if (numero == 3) { C++; if (C == 1) { teste = true; break; } }
                 if (numero == 4) { D++; if (D == 1) { teste = true; break; } }
                 if (numero == 5) { E++; if (E == 1) { teste = true; break; } }
